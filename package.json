@@ -1,6 +1,6 @@
 {
   "name": "phant-output-websocket",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "lib/phant-output-websocket.js",
   "description": "websocket output for phant",
   "homepage": "https://github.com/sparkfun/phant-output-websocket",
