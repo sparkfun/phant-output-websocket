@@ -24,7 +24,7 @@
     "socket.io": "^1.0.4"
   },
   "engines": {
-    "node": "^0.10.28"
+    "node": "^0.10.29"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
