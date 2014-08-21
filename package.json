@@ -24,7 +24,7 @@
     "socket.io": "^1.0.6"
   },
   "engines": {
-    "node": "^0.10.29"
+    "node": "^0.10.30"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
@@ -34,7 +34,6 @@
     "time-grunt": "^0.2.10",
     "load-grunt-tasks": "^0.4.0",
     "jshint-stylish": "^0.1.5",
-    "grunt-contrib-nodeunit": "^0.3.3",
     "grunt-jsbeautifier": "^0.2.7"
   }
 }
